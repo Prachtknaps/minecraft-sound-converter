@@ -1,4 +1,4 @@
-# Minecraft Sound Converter
+# Minecraft Sound Converter (1.6+)
 
 The Minecraft Sound Converter is a tool designed for extracting Minecraft sounds and creating custom soundpacks. It simplifies the process of organizing sound files from the `%appdata%\.minecraft\assets\objects` directory into the tool's designated `sounds` folder. This tool allows users to create their own custom soundpacks with the organized sound files.
 
